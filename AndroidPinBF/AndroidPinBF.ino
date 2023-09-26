@@ -33,5 +33,6 @@ void loop() {
   }
   Keyboard.releaseAll();
   Keyboard.end();
+  delay(3200);
 }
 
